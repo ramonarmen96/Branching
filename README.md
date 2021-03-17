@@ -14,6 +14,7 @@
 
 * `git branch -M "newName"` - Rename Branch
 * `git branch newBranch` - create new branch
+* `git checkout -b otherBranch` - create and checkout `otherBranch`
 * `git branch` list local branches indicating current branch
 * `git checkout newBranch` - switched to newBranch
 * `git config --list` - list current git config
