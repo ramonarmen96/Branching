@@ -11,6 +11,9 @@
 * `git log --oneline` - lists commits in compact format
 * `git config --help` - lists options and syntax for git config
 
+### remote commands
+* `git pull origin main`
+
 ### Branching Commands
 
 * `git branch -M "newName"` - Rename Branch
