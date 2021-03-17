@@ -14,3 +14,4 @@
 
 * `git branch -M "newName"` - Rename Branch
 * `git branch newBranch` - create new branch
+* `git checkout -b otherBranch` - create and checkout `otherBranch`
