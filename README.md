@@ -7,3 +7,5 @@
 * `git status` - show status of working directory/repository
 * `git add .` - stage changes for commit
 * `git commit -m "message"` - commit changes to local repository
+* `git log` - lists commits
+* `git log --oneline` - lists commits in compact format
