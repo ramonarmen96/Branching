@@ -9,6 +9,7 @@
 * `git commit -m "message"` - commit changes to local repository
 * `git log` - lists commits
 * `git log --oneline` - lists commits in compact format
+* `git config --help` - lists options and syntax for git config
 
 ### Branching Commands
 
