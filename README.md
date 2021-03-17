@@ -9,7 +9,8 @@
 * `git commit -m "message"` - commit changes to local repository
 * `git log` - lists commits
 * `git log --oneline` - lists commits in compact format
-
+### remote commands
+* `git pull origin main`
 ### Branching Commands
 
 * `git branch -M "newName"` - Rename Branch
